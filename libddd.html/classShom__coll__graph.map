@@ -1,0 +1,5 @@
+<map id="Shom" name="Shom">
+<area shape="rect" id="node1" title="This is the user interface class to manipulate homomorphisms." alt="" coords="42,1196,155,1391"/>
+<area shape="rect" id="node2" href="$classGShom.html" title="This class is the base class for Homomorphisms over SDD." alt="" coords="5,336,192,1147"/>
+<area shape="rect" id="node3" href="$class__GShom.html" title="The concrete data class for Homomorphisms." alt="" coords="23,5,175,273"/>
+</map>

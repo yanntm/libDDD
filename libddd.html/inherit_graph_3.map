@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class__GHom.html" title="The concrete data class for Homomorphisms." alt="" coords="5,436,76,463"/>
+<area shape="rect" id="node2" href="$classAdd.html" title=" " alt="" coords="162,5,209,32"/>
+<area shape="rect" id="node3" href="$classAnd.html" title="A commutative composition of n homomorphisms." alt="" coords="162,56,209,83"/>
+<area shape="rect" id="node4" href="$classApply2k.html" title=" " alt="" coords="148,107,223,133"/>
+<area shape="rect" id="node5" href="$classCompose.html" title=" " alt="" coords="144,157,227,184"/>
+<area shape="rect" id="node6" href="$classConstant.html" title=" " alt="" coords="145,208,225,235"/>
+<area shape="rect" id="node7" href="$classDomExtract.html" title="Extractor of variable domains for invert computations." alt="" coords="136,259,235,285"/>
+<area shape="rect" id="node8" href="$classFixpoint.html" title=" " alt="" coords="148,309,223,336"/>
+<area shape="rect" id="node9" href="$classIdentity.html" title=" " alt="" coords="149,360,221,387"/>
+<area shape="rect" id="node10" href="$classInter.html" title=" " alt="" coords="159,411,211,437"/>
+<area shape="rect" id="node11" href="$classLeftConcat.html" title=" " alt="" coords="140,461,231,488"/>
+<area shape="rect" id="node12" href="$classMinus.html" title=" " alt="" coords="155,512,216,539"/>
+<area shape="rect" id="node13" href="$classMLHomAdapter.html" title=" " alt="" coords="124,563,247,589"/>
+<area shape="rect" id="node14" href="$classMonotonic.html" title=" " alt="" coords="140,613,231,640"/>
+<area shape="rect" id="node15" href="$classMult.html" title=" " alt="" coords="160,664,211,691"/>
+<area shape="rect" id="node16" href="$classMyGHom.html" title="Unknown function for this class." alt="" coords="144,715,227,741"/>
+<area shape="rect" id="node17" href="$classNotCond.html" title=" " alt="" coords="146,765,225,792"/>
+<area shape="rect" id="node18" href="$classRightConcat.html" title=" " alt="" coords="135,816,236,843"/>
+<area shape="rect" id="node19" href="$classStrongHom.html" title="The abstract base class for user defined operations." alt="" coords="138,867,233,893"/>
+<area shape="rect" id="node20" href="$class__incVar.html" title=" " alt="" coords="321,791,391,817"/>
+<area shape="rect" id="node21" href="$class__setVarConst.html" title=" " alt="" coords="303,841,409,868"/>
+<area shape="rect" id="node22" href="$class__VarCompState.html" title=" " alt="" coords="295,892,417,919"/>
+<area shape="rect" id="node23" href="$class__VarCompVar.html" title=" " alt="" coords="301,943,411,969"/>
+</map>

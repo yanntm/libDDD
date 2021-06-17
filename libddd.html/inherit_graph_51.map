@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classDataSet.html" title="This class is an abstraction of a set of data." alt="" coords="5,56,80,83"/>
+<area shape="rect" id="node2" href="$classDDD.html" title="This class is the public interface for manipulating Data Decision Diagrams." alt="" coords="147,5,199,32"/>
+<area shape="rect" id="node3" href="$classGSDD.html" title="This class is the base class representing a hierarchical Set Decision Diagram." alt="" coords="143,56,203,83"/>
+<area shape="rect" id="node5" href="$classIntDataSet.html" title="This class is a very basic implementation of DataSet interface based on std::std::vector&lt;int&gt; and a u..." alt="" coords="128,107,219,133"/>
+<area shape="rect" id="node4" href="$classSDD.html" title="This class is the public interface for manipulating Data Decision Diagrams." alt="" coords="267,56,317,83"/>
+<area shape="rect" id="node6" href="$classGDDD.html" title="This class is the base class representing a Data Decision Diagram." alt="" coords="11,5,74,32"/>
+</map>

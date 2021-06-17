@@ -1,0 +1,5 @@
+<map id="Hom" name="Hom">
+<area shape="rect" id="node1" title="This is the user interface class to manipulate homomorphisms." alt="" coords="25,815,138,1083"/>
+<area shape="rect" id="node2" href="$classGHom.html" title="This class is the base class representing a homomorphism over DDD." alt="" coords="21,365,141,765"/>
+<area shape="rect" id="node3" href="$class__GHom.html" title="The concrete data class for Homomorphisms." alt="" coords="5,5,157,303"/>
+</map>

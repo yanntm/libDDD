@@ -1,0 +1,7 @@
+<map id="DataSet" name="DataSet">
+<area shape="rect" id="node1" title="This class is an abstraction of a set of data." alt="" coords="164,5,300,259"/>
+<area shape="rect" id="node2" href="$classDDD.html" title="This class is the public interface for manipulating Data Decision Diagrams." alt="" coords="5,431,141,978"/>
+<area shape="rect" id="node3" href="$classGSDD.html" title="This class is the base class representing a hierarchical Set Decision Diagram." alt="" coords="166,307,298,1103"/>
+<area shape="rect" id="node5" href="$classIntDataSet.html" title="This class is a very basic implementation of DataSet interface based on std::std::vector&lt;int&gt; and a u..." alt="" coords="323,556,453,853"/>
+<area shape="rect" id="node4" href="$classSDD.html" title="This class is the public interface for manipulating Data Decision Diagrams." alt="" coords="175,1151,289,1360"/>
+</map>

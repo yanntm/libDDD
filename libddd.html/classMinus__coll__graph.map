@@ -1,0 +1,6 @@
+<map id="Minus" name="Minus">
+<area shape="rect" id="node1" title=" " alt="" coords="95,1063,219,1257"/>
+<area shape="rect" id="node2" href="$class__GHom.html" title="The concrete data class for Homomorphisms." alt="" coords="5,5,157,303"/>
+<area shape="rect" id="node4" href="$classGHom.html" title="This class is the base class representing a homomorphism over DDD." alt="" coords="97,483,217,883"/>
+<area shape="rect" id="node3" href="$classGDDD.html" title="This class is the base class representing a Data Decision Diagram." alt="" coords="293,365,424,1000"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GSDD" name="GSDD">
+<area shape="rect" id="node1" title="This class is the base class representing a hierarchical Set Decision Diagram." alt="" coords="7,307,139,1103"/>
+<area shape="rect" id="node3" href="$classSDD.html" title="This class is the public interface for manipulating Data Decision Diagrams." alt="" coords="17,1151,130,1360"/>
+<area shape="rect" id="node2" href="$classDataSet.html" title="This class is an abstraction of a set of data." alt="" coords="5,5,141,259"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="_DED_Hom" name="_DED_Hom">
+<area shape="rect" id="node1" title=" " alt="" coords="146,1165,277,1331"/>
+<area shape="rect" id="node2" href="$class__DED.html" title=" " alt="" coords="149,835,273,971"/>
+<area shape="rect" id="node3" href="$classGDDD.html" title="This class is the base class representing a Data Decision Diagram." alt="" coords="25,5,155,640"/>
+<area shape="rect" id="node4" href="$classGHom.html" title="This class is the base class representing a homomorphism over DDD." alt="" coords="298,703,418,1103"/>
+<area shape="rect" id="node5" href="$class__GHom.html" title="The concrete data class for Homomorphisms." alt="" coords="282,174,434,471"/>
+</map>

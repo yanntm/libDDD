@@ -1,0 +1,7 @@
+<map id="IntDataSet" name="IntDataSet">
+<area shape="rect" id="node1" title="This class is a very basic implementation of DataSet interface based on std::std::vector&lt;int&gt; and a u..." alt="" coords="29,631,160,913"/>
+<area shape="rect" id="node2" href="$classDataSet.html" title="This class is an abstraction of a set of data." alt="" coords="5,315,141,568"/>
+<area shape="rect" id="node3" href="$classUniqueTable.html" title="This class implements a unicity table mechanism, based on an STL hash_set." alt="" coords="166,381,306,502"/>
+<area shape="rect" id="node4" href="$structd3_1_1hash__set.html" title=" " alt="" coords="159,160,313,252"/>
+<area shape="rect" id="node5" href="$structd3_1_1hash__set.html" title=" " alt="" coords="133,5,339,97"/>
+</map>
